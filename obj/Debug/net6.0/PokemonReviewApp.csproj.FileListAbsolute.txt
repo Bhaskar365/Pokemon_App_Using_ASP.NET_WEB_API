@@ -65,3 +65,4 @@ C:\running_projects\pokemon_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonRev
 C:\running_projects\pokemon_Project\PokemonReviewApp\obj\Debug\net6.0\ref\PokemonReviewApp.dll
 C:\running_projects\pokemon_Project\PokemonReviewApp\bin\Debug\net6.0\AutoMapper.dll
 C:\running_projects\pokemon_Project\PokemonReviewApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\running_projects\pokemon_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.sourcelink.json
